@@ -2,7 +2,6 @@ import React from 'react';
 import Project from './Project';
 
 function Portfolio() {
-  // Dummy data for projects
   const projects = [
     { id: 1, title: 'Weather Dashboard', image: '', deployedLink: 'https://viren15152.github.io/06-Weather-Dashboard-Server-Side-APIs-Viren/', githubLink: 'https://github.com/viren15152/06-Weather-Dashboard-Server-Side-APIs-Viren' },
     { id: 2, title: 'CMS Tech Blog', image: '', deployedLink: 'https://secure-journey-14586-f3f5cbbb08df.herokuapp.com/login', githubLink: 'https://github.com/viren15152/Model-View-Controller-CMS-Tech-Blog' },
