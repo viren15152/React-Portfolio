@@ -1,4 +1,3 @@
-/* Apply box-sizing to all elements for consistent sizing */
 * {
     box-sizing: border-box;
   }
