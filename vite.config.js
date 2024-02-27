@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react'; // Importing the Vite plugin for React
 export default defineConfig({
   plugins: [react()], // Using the React plugin with Vite
   server: {
-    port: 3000, // Setting the development server port to 3000
+    port: 4000, // Setting the development server port to 4000
     open: true // Automatically opening the browser when the server starts
   }
 });
