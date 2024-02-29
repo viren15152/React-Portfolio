@@ -13,7 +13,7 @@
 
 ## Description
 
- 
+This is a personal portfolio page using React and the various features that React for Web provides.
 
 ## Visuals
 
@@ -30,8 +30,10 @@
 
 
 ## Installation
-Clone my Github repository and open in browser, or access via deployed link.
-
+1. Clone the repository from GitHub
+2. Install node.js
+3. Run npm install to install dependencies.
+4. Run npm start to start the web server and connect
 
 ## Usage
 Use the top right navigation links to visit different parts of the website. You can explore the rest of the page by scrolling. The user can click on the project titles to view them via the deployed links. 
